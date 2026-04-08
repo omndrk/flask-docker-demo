@@ -2,3 +2,5 @@ __pycache__
 .venv
 .flaskenv
 .gitignore
+.git
+.DS_Store
